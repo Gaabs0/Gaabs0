@@ -1,6 +1,6 @@
 
 
-## Olá!! me chamo Carlos Gabriel
+## Olá!!! Sou Carlos Gabriel e estou virando desenvolvedor em java.
 
 - 🔭 Estudando para ser um Desenvolvedor Java
 - 🌱 Etudando Java/Javascript/Python 
