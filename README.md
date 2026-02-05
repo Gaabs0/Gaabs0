@@ -1,9 +1,9 @@
 
 
-## Olá!!! Sou Carlos Gabriel e estou virando desenvolvedor em java.
+## Olá!!! Sou Carlos Gabriel e estou virando desenvolvedor em java
 
 - 🔭 Estudando para ser um Desenvolvedor Java
-- 🌱 Etudando Java/Javascript/Python 
+- 🌱 Gosto bastante de jogos e desenvolver projetos
 - 😄 Pronomes: Ele/Dele
 
  <div>
